@@ -1,4 +1,5 @@
 ﻿using System;
+using TicTacToeRendererLib;
 
 namespace Self_Practice
 {
@@ -23,6 +24,8 @@ namespace Self_Practice
 
 
             TicTacToe.TTT();
+
+            var ticTacToe = new TicTacToe();
         }
     }
 }

@@ -6,4 +6,10 @@
     <RootNamespace>Self_Practice</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="TicTacToeRendererLib">
+      <HintPath>Libraries\TicTacToeRendererLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
