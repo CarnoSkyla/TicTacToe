@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sibusiso\\source\\repos\\Self-Practice\\Self-Practice.csproj": {}
+    "C:\\Users\\sibusiso\\Documents\\GitHub\\TicTacToe\\Self-Practice\\Self-Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sibusiso\\source\\repos\\Self-Practice\\Self-Practice.csproj": {
+    "C:\\Users\\sibusiso\\Documents\\GitHub\\TicTacToe\\Self-Practice\\Self-Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sibusiso\\source\\repos\\Self-Practice\\Self-Practice.csproj",
+        "projectUniqueName": "C:\\Users\\sibusiso\\Documents\\GitHub\\TicTacToe\\Self-Practice\\Self-Practice.csproj",
         "projectName": "Self-Practice",
-        "projectPath": "C:\\Users\\sibusiso\\source\\repos\\Self-Practice\\Self-Practice.csproj",
+        "projectPath": "C:\\Users\\sibusiso\\Documents\\GitHub\\TicTacToe\\Self-Practice\\Self-Practice.csproj",
         "packagesPath": "C:\\Users\\sibusiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sibusiso\\source\\repos\\Self-Practice\\obj\\",
+        "outputPath": "C:\\Users\\sibusiso\\Documents\\GitHub\\TicTacToe\\Self-Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
